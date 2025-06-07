@@ -217,9 +217,4 @@ WHERE C.CLASS_ID IS NULL;
 
 Happy Querying! 🧠💻
 
-```
 
----
-
-Would you like this saved as a downloadable `README.md` file now?
-```
